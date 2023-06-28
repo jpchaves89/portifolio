@@ -13,7 +13,7 @@ Meu primeiro Portifólio de criação de página com cursos de Html e CSS da Alu
 
 ## Feito por:
 
-### João Paulo Chaves
+### João Paulo Aragão Chaves
 
 ### Linkedin: https://www.linkedin.com/in/jo%C3%A3o-paulo-arag%C3%A3o-chaves-b70055b4/
 
